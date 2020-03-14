@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,华数2
 http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
+#EXTINF:-1 ,bilibili直播间
+https://d1--cn-gotcha04.bilivideo.com/live-bvc/466313/live_491299565_49370810.flv?cdn=cn-gotcha04&expires=1584163302&len=0&oi=1866073743&pt=web&qn=10000&trid=c84b5dc8b47f4805afb8cde5eb969c90&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=76fe64ea0f70fe5efe57339c1ea01221&ptype=0
 #EXTINF:-1 ,华数3
 http://hls-ott-zhibo.wasu.tv/live/186/index.m3u8
 #EXTINF:-1 ,华数7
