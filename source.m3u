@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,华数2
 http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
-#EXTINF:-1 ,douyu直播间
+#EXTINF:-1 ,douyu刘坤
 http://tx2play1.douyucdn.cn/live/52319rSMZpMOI07X.flv?uuid=
+#EXTINF:-1 ,douyu马丁老师
+http://tx2play1.douyucdn.cn/live/73440r4fQpMZy6AX.flv?uuid=
+#EXTINF:-1 ,【贝爷影厅】华语厅 经典 周星驰 刘德华
+http://tx2play1.douyucdn.cn/live/4332rAtgA34sbTdI.flv?uuid=
+#EXTINF:-1 ,❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影
+http://tx2play1.douyucdn.cn/live/96577rAPPRGh9S0L.flv?uuid=
+#EXTINF:-1 ,【林正英】僵尸 女鬼 弹幕 护体
+http://tx2play1.douyucdn.cn/live/218859rMWW1R1pPk.flv?uuid=
+#EXTINF:-1 ,【神乐】华语 经典 电影 刘德华 周星驰
+http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
 #EXTINF:-1 ,华数3
 http://hls-ott-zhibo.wasu.tv/live/186/index.m3u8
 #EXTINF:-1 ,华数7
